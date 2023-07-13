@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdelfatah Mohamad
 - 👀 I’m Django & Odoo Developer
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning and practicing in Odoo & Django.
 
 <!---
 AbdelfatahMo/AbdelfatahMo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
