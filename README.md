@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdelfatah Mohamad
-- 👀 I’m Django & Odoo Developer
+- 👀 I’m Python (Django & Odoo) Developer
 - 🌱 I’m currently learning and practicing in Odoo & Django.
 
 <!---
